@@ -1,6 +1,11 @@
 This project will contain a device that the user would wear on an arm. Supplied with two linear actuator (maybe more) and two pressure sensors in the hand area. PS1 will monitor grip strength and will scale that pressure by 5-10x to the linear actuator controlling grip. PS2 will monitor pushing strength that will also scale by the same amount. This is used to augment a humans strength with a machines. Basically if a human can lift 225lbs bench press. With this device, they should be able to bench around 1250lbs.
 
+Would need an anchor point for the device, i.e. the ground. This would make the device have some sort of bar with a rubber end pressing the ground.
+
 Goals:
 1. Find linear actuators or motors able to apply that much pressure for lifting. 
 2. Smaller motor for grip strength as that won't be that heavy, but must scale linearly with pushing strength, or else user may loose grip of very heavy weight.
 3. A small monitor that notifies the user of how much pressure/lbs they are lifting and when the machine cannot lift anymore, therefore the user can't "break" the device or knows when too much pressure is required.
+
+
+IDEA2: Have a drone that can be controlled with hand gestures, can also lift objects. How heavy?
